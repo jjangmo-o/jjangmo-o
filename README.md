@@ -4,10 +4,6 @@
 
 ###
 
-<img src="https://github-readme-stats.vercel.app/api?username=jjangmo-o&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-
-###
-
 <img align="right" height="150" width="150" src="https://github.com/jjangmo-o/jjangmo-o/blob/main/jjangmo.gif"/>
 
 ###
@@ -26,6 +22,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="30" alt="c logo"/>
+  <img width="12" />
+  <ing src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" height="30" alt="java logo"/>
+    
   <img width="12" />
 </div>
 
