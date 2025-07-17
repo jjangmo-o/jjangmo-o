@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="30" alt="c logo"/>
   <img width="12" />
-  <ing src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/java@0.0.0/java_256x256.png" height="30" alt="java logo"/>
+  <ing src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30" alt="java logo"/>
   <img width="12" />
 </div>
 
