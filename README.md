@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="30" alt="c logo"/>
   <img width="12" />
-  <ing src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" height="30" alt="java logo"/>
+  <ing src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg" height="30" alt="java logo"/>
     
   <img width="12" />
 </div>
