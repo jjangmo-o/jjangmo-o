@@ -26,12 +26,6 @@
 
 ---
 
-### 📈 GitHub Activity
-
-<img src="https://github-readme-stats.vercel.app/api?username=jjangmo-o&show_icons=true&hide_title=true&theme=default" />
-
----
-
 ### 📌 What I’m Working On
 - Strengthening **data structures, algorithms, and OOP concepts**
 - Applying classroom knowledge through **hands-on projects**
