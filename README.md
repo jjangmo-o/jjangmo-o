@@ -28,10 +28,15 @@
 
 ### 📈 GitHub Activity
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jjangmo-o&show_icons=true&hide_title=true" height="160" />
-  <img src="https://streak-stats.demolab.com?user=jjangmo-o" height="160" />
-</div>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=jjangmo-o&show_icons=true&hide_title=true"
+  alt="GitHub stats"
+/>
+
+<img
+  src="https://streak-stats.demolab.com?user=jjangmo-o"
+  alt="GitHub streak"
+/>
 
 ---
 
@@ -52,13 +57,12 @@
 
 <div align="left">
   <a href="https://www.instagram.com/jjangmo.o" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/jrjf-exe" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
   </a>
 
+  <a href="https://www.linkedin.com/in/jrjf-exe" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+  </a>
 </div>
 
 ---
