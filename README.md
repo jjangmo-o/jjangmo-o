@@ -28,15 +28,7 @@
 
 ### 📈 GitHub Activity
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=jjangmo-o&show_icons=true&hide_title=true"
-  alt="GitHub stats"
-/>
-
-<img
-  src="https://streak-stats.demolab.com?user=jjangmo-o"
-  alt="GitHub streak"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=jjangmo-o&show_icons=true&hide_title=true&theme=default" />
 
 ---
 
