@@ -46,7 +46,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
   </a>
 
-  <a href="https://www.linkedin.com/in/jrjf-exe" target="_blank">
+  <a href="https://www.linkedin.com/in/jjangmo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
